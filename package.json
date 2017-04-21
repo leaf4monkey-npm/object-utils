@@ -1,0 +1,19 @@
+{
+  "name": "object-utils",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/leaf4monkey-npm/object-utils.git"
+  },
+  "author": "leaf4monkey <joc98@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leaf4monkey-npm/object-utils/issues"
+  },
+  "homepage": "https://github.com/leaf4monkey-npm/object-utils#readme"
+}
