@@ -100,7 +100,7 @@ let traverse = function (obj, handle) {
     });
 };
 
-export default {
+module.exports = {
     getDataByPath,
     searchUntilDefined,
     searchAndReplace,
